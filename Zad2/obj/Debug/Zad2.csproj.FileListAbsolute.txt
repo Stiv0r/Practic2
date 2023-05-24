@@ -1,0 +1,15 @@
+D:\Practic2Pav\Zad2\bin\Debug\Zad2.exe.config
+D:\Practic2Pav\Zad2\bin\Debug\Zad2.exe
+D:\Practic2Pav\Zad2\bin\Debug\Zad2.pdb
+D:\Practic2Pav\Zad2\obj\Debug\Zad2.csproj.AssemblyReference.cache
+D:\Practic2Pav\Zad2\obj\Debug\MainWindow.g.cs
+D:\Practic2Pav\Zad2\obj\Debug\App.g.cs
+D:\Practic2Pav\Zad2\obj\Debug\Zad2_MarkupCompile.cache
+D:\Practic2Pav\Zad2\obj\Debug\Zad2_MarkupCompile.lref
+D:\Practic2Pav\Zad2\obj\Debug\MainWindow.baml
+D:\Practic2Pav\Zad2\obj\Debug\Zad2.g.resources
+D:\Practic2Pav\Zad2\obj\Debug\Zad2.Properties.Resources.resources
+D:\Practic2Pav\Zad2\obj\Debug\Zad2.csproj.GenerateResource.cache
+D:\Practic2Pav\Zad2\obj\Debug\Zad2.csproj.CoreCompileInputs.cache
+D:\Practic2Pav\Zad2\obj\Debug\Zad2.exe
+D:\Practic2Pav\Zad2\obj\Debug\Zad2.pdb
